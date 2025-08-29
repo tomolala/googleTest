@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>googleアナリティクスのテスト</h1>
-    あいうえお
+    あいうえおIchiki
 </body>
 </html>
